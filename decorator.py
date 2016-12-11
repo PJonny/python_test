@@ -134,4 +134,3 @@ a.myfunc()
 print(a.myfunc())
 print(a.myfunc2(1, 2))
 print(a.myfunc2(3, 4))
-kk
