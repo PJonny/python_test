@@ -28,3 +28,4 @@ def scanD(D, ck, minSupport):
             retLIst.insert(0, key)
         supportData[key] = support
     return retLIst, supportData
+
